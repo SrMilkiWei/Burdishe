@@ -1,0 +1,60 @@
+body{
+    color: #009933;
+    font-size: 14px;
+    font-family: Arial;
+}
+
+p{
+    letter-spacing: 10px;
+}
+
+.kursiv{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.sans{
+    font-family: "Comic Sans MS";
+    font-size: 25pt;
+    text-indent: 50px;
+}
+
+.rich{
+    font-family: Arial;
+    font-size: 25pt;
+    font-weight: bold;
+    font-style: italic;
+    color: orange;
+    line-height: 25pt;
+}
+
+.perenos{
+    white-space: pre-line;
+}
+
+.red{
+    color: #FF0000;
+    text-transform: uppercase;
+}
+
+.cour{
+    font-family: Courier;
+    font-size: 12pt;
+    text-transform: uppercase;
+    letter-spacing: 200%;
+    text-decoration: underline;
+    text-indent: 2cm;
+    line-height: 200%;
+}
+
+.astyle{
+    font-family: Helvetica;
+    word-spacing: 150%;
+    color: rgb(178, 118, 15);
+}
+
+.bstyle{
+    letter-spacing: 2mm;
+    text-align: center;
+    font-stretch: semi-condensed;
+}
